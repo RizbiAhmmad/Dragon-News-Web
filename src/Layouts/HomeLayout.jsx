@@ -25,9 +25,7 @@ const HomeLayout = () => {
             <aside className='col-span-3'><RightNavbar></RightNavbar></aside>
 
             </main>
-
-            
-           
+          
             
         </div>
     );
